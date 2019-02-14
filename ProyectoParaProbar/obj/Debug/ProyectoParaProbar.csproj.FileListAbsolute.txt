@@ -1,0 +1,13 @@
+C:\Users\Ismael\Desktop\Proyectos\ParallaxCsharp\Componente\ProyectoParaProbar\bin\Debug\ProyectoParaProbar.exe.config
+C:\Users\Ismael\Desktop\Proyectos\ParallaxCsharp\Componente\ProyectoParaProbar\bin\Debug\ProyectoParaProbar.exe
+C:\Users\Ismael\Desktop\Proyectos\ParallaxCsharp\Componente\ProyectoParaProbar\bin\Debug\ProyectoParaProbar.pdb
+C:\Users\Ismael\Desktop\Proyectos\ParallaxCsharp\Componente\ProyectoParaProbar\obj\Debug\ProyectoParaProbar.csprojAssemblyReference.cache
+C:\Users\Ismael\Desktop\Proyectos\ParallaxCsharp\Componente\ProyectoParaProbar\obj\Debug\ProyectoParaProbar.Properties.Resources.resources
+C:\Users\Ismael\Desktop\Proyectos\ParallaxCsharp\Componente\ProyectoParaProbar\obj\Debug\ProyectoParaProbar.csproj.GenerateResource.cache
+C:\Users\Ismael\Desktop\Proyectos\ParallaxCsharp\Componente\ProyectoParaProbar\obj\Debug\ProyectoParaProbar.csproj.CoreCompileInputs.cache
+C:\Users\Ismael\Desktop\Proyectos\ParallaxCsharp\Componente\ProyectoParaProbar\obj\Debug\ProyectoParaProbar.exe
+C:\Users\Ismael\Desktop\Proyectos\ParallaxCsharp\Componente\ProyectoParaProbar\obj\Debug\ProyectoParaProbar.pdb
+C:\Users\Ismael\Desktop\Proyectos\ParallaxCsharp\Componente\ProyectoParaProbar\bin\Debug\Componente.dll
+C:\Users\Ismael\Desktop\Proyectos\ParallaxCsharp\Componente\ProyectoParaProbar\bin\Debug\Componente.pdb
+C:\Users\Ismael\Desktop\Proyectos\ParallaxCsharp\Componente\ProyectoParaProbar\obj\Debug\ProyectoParaProbar.Form1.resources
+C:\Users\Ismael\Desktop\Proyectos\ParallaxCsharp\Componente\ProyectoParaProbar\obj\Debug\ProyectoParaProbar.csproj.CopyComplete
