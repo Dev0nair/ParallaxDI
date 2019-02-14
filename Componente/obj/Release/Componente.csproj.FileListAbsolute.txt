@@ -1,0 +1,9 @@
+C:\Users\Ismael\Desktop\Proyectos\ParallaxCsharp\Componente\Componente\bin\Release\Componente.dll
+C:\Users\Ismael\Desktop\Proyectos\ParallaxCsharp\Componente\Componente\bin\Release\Componente.pdb
+C:\Users\Ismael\Desktop\Proyectos\ParallaxCsharp\Componente\Componente\obj\Release\Componente.csprojAssemblyReference.cache
+C:\Users\Ismael\Desktop\Proyectos\ParallaxCsharp\Componente\Componente\obj\Release\Componente.Properties.Resources.resources
+C:\Users\Ismael\Desktop\Proyectos\ParallaxCsharp\Componente\Componente\obj\Release\Componente.Visor.resources
+C:\Users\Ismael\Desktop\Proyectos\ParallaxCsharp\Componente\Componente\obj\Release\Componente.csproj.GenerateResource.cache
+C:\Users\Ismael\Desktop\Proyectos\ParallaxCsharp\Componente\Componente\obj\Release\Componente.csproj.CoreCompileInputs.cache
+C:\Users\Ismael\Desktop\Proyectos\ParallaxCsharp\Componente\Componente\obj\Release\Componente.dll
+C:\Users\Ismael\Desktop\Proyectos\ParallaxCsharp\Componente\Componente\obj\Release\Componente.pdb
